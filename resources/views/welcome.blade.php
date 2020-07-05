@@ -80,6 +80,7 @@
             @endif
 
             <div class="content">
+
                 <div class="title m-b-md">
                     Sanbercode
                 </div>
@@ -94,6 +95,7 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                
             </div>
         </div>
     </body>
